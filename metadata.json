@@ -1,0 +1,6 @@
+{
+  "name": "Jyotish 12 Ghar Video Studio",
+  "description": "AI-driven animation video generator and synchronized voiceover studio for Vedic Astrology 12 Houses (Kundali)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
